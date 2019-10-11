@@ -9,6 +9,6 @@
 	<h1>Happy Camper: Lets Go RVing</h1>
 </div>
 <h2>User Story</h2>
-	<p><b>The RVer is always traveling and looking for the most beautiful sites to camp that have the necessary RV hookups and amenities needed for the most enjoyable trip possible.</b></p>
+	<p><b>Kim is always traveling and looking for the most beautiful sites to camp that have the necessary RV hookups and amenities needed for the most enjoyable trip possible.</b></p>
 </body>
 </html>

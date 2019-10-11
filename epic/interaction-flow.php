@@ -12,12 +12,12 @@
 <div>
 	<ol>
 		<li>Open Browser</li>
-		<li>Type: Best RV sites in America</li>
-		<li>Pick a site from list</li>
-		<li>The website opens for chosen site</li>
-		<li>Read about the site</li>
+		<li>Type: Best RV campsites in America</li>
+		<li>Pick a campsite from list</li>
+		<li>The website opens for chosen campsite</li>
+		<li>Read about the campsite</li>
 		<li>Choose amenities</li>
-		<li>Book RV site</li>
+		<li>Book RV campsite</li>
 	</ol>
 </div>
 </body>
